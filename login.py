@@ -1,1 +1,2 @@
-print(" delete login code and keep only. from login branch")
+for i in range(6):
+    print(i)
